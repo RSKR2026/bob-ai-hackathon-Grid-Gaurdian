@@ -1,4 +1,4 @@
-# 🚀 [Your Project Title Here]
+# 🚀 [GridGaurd AI]
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
-| **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Name** | [Grid Gaurdian] |
+| **Track** | [AI] |
+| **Team Lead** | [Rudra Shah] — [email@ibm.com] |
+| **Members** | [Shalin Shah], [Rohan Patel], [Kavi Trivedi] |
 
 ---
 
