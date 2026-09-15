@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Grid Gaurdian] |
-| **Track** | [AI] |
-| **Team Lead** | [Rudra Shah] — [email@ibm.com] |
-| **Members** | [Shalin Shah], [Rohan Patel], [Kavi Trivedi] |
+| **Team Name** | Grid Gaurdian |
+| **Track** | AI |
+| **Team Lead** | Rudra Shah — [email@ibm.com] |
+| **Members** | Shalin Shah, Rohan Patel, Kavi Trivedi |
 
 ---
 
@@ -19,7 +19,7 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
+Power transformer and substation failures cause severe blackouts that financially drain utilities more than $1 million per hour.
 
 ---
 
@@ -27,15 +27,15 @@
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[Describe your solution clearly. Explain the core mechanism — what makes it work.]
+The goal is to build an IBM solution that predicts utility grid outages and identifies at-risk equipment by combining sensor health data, weather forecasts, and historical records.
 
 ---
 
 ## ✨ Key Features
 
-- **Feature 1:** [Brief description — e.g., "Real-time anomaly detection using watsonx.ai"]
-- **Feature 2:** [Brief description]
-- **Feature 3:** [Brief description]
+- **Feature 1:** The goal is to build an IBM solution that predicts utility grid outages and identifies at-risk equipment by combining sensor health data, weather forecasts, and historical records.
+- **Feature 2:** AI-Based Failure Prediction — Uses Isolation Forest + XGBoost to detect anomalies, predict failure probability, Health Index, and Remaining Useful Life (RUL)
+- **Feature 3:** Automated Maintenance — Prioritizes high-risk transformers and automatically creates maintenance work orders through IBM Maximo.
 - **Feature 4:** [Optional]
 - **Feature 5:** [Optional]
 
@@ -45,9 +45,9 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | [e.g., Python, TypeScript] |
-| **Frameworks** | [e.g., FastAPI, React] |
-| **IBM Technologies** | [e.g., watsonx.ai, IBM Bob, IBM Cloud] |
+| **Languages** | Python |
+| **Frameworks** | FastAPI, React |
+| **IBM Technologies** |  watsonx.ai, IBM Bob |
 | **Databases** | [e.g., PostgreSQL, Redis] |
 | **Other** | [e.g., Docker, GitHub Actions] |
 
